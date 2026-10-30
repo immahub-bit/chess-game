@@ -1,0 +1,6 @@
+{
+  "name": "Grandmaster Chess",
+  "description": "A comprehensive chess web app featuring AI bot opponents with adjustable difficulty, real-time tactics puzzles, analysis board with evaluation bar, dual chess clocks, and custom board themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
